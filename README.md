@@ -26,44 +26,14 @@ ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 
 
 👥 Integrantes del Equipo
------------------------------------------------------------------------------------------------------------------
-|       Foto       |        Nombre        |           Rol            |                Intereses                 |
------------------------------------------------------------------------------------------------------------------
-|                  |                      |                          |                                          |
-|                  |    Hubert Hernando   |     Líder del Equipo     |    Innovación social, sostenibilidad     |
-|                  |    Ortiz Villegas    |                          |                                          |
-|                  |                      |                          |                                          |
-|                  |                      |                          |                                          |
-|                  |                      |                          |                                          |
-----------------------------------------------------------------------------------------------------------------*
-|                  |                      |                          |                                          |
-|                  |    Hubert Hernando   |    Responsable de la     |      Gestión ambiental y desarrollo      |
-|                  |    Ortiz Villegas    |      investigación       |              comunitario                 |
-|                  |                      |                          |                                          |
-|                  |                      |                          |                                          |
-|                  |                      |                          |                                          |
------------------------------------------------------------------------------------------------------------------
-|                  |                      |                          |                                          |
-|                  |     Nader Andre      |         Diseñador        |     Diseño de prototipos y creatividad   |
-|                  |   Espinoza Zegarra   |                          |                  aplicada                |
-|                  |                      |                          |                                          |
-|                  |                      |                          |                                          |
-|                  |                      |                          |                                          |
------------------------------------------------------------------------------------------------------------------
-|                  |                      |                          |                                          |
-|                  |   Alessandra Nicol   |       Encargada de       |    Comunicación científica y redacción   |
-|                  |    Palomino Lima     |       documentación      |                  técnica                 |
-|                  |                      |                          |                                          |
-|                  |                      |                          |                                          |
-|                  |                      |                          |                                          |
------------------------------------------------------------------------------------------------------------------
-|                  |                      |                          |                                          |
-|                  |    Hembert Enrique   |       Programador o      |     Programación, análisis de datos y    | 
-|                  |     Huamani Reyes    |         modelador        |                 simulación               |
-|                  |                      |                          |                                          |
-|                  |                      |                          |                                          |
-|                  |                      |                          |                                          |
------------------------------------------------------------------------------------------------------------------
+| Foto | Nombre | Rol | Intereses |
+| :---: | :--- | :--- | :--- |
+| <img src="<img width="453" height="534" alt="image" src="https://github.com/user-attachments/assets/98a443c4-80aa-49cb-9511-454c45c15896" />
+" width="100"> | **Hubert Hernando Ortiz Villegas** | Líder del Equipo | Innovación social, sostenibilidad |
+| <img src="URL_DE_TU_FOTO" width="100"> | **Hubert Hernando Ortiz Villegas** | Responsable de la investigación | Gestión ambiental y desarrollo comunitario |
+| <img src="URL_DE_TU_FOTO" width="100"> | **Nader Andre Espinoza Zegarra** | Diseñador | Diseño de prototipos y creatividad aplicada |
+| <img src="URL_DE_TU_FOTO" width="100"> | **Alessandra Nicol Palomino Lima** | Encargada de documentación | Comunicación científica y redacción técnica |
+| <img src="URL_DE_TU_FOTO" width="100"> | **Hembert Enrique Huamani Reyes** | Programador o modelador | Programación, análisis de datos y simulación |
 
 💬 Resumen Final
 Somos el equipo N°1 del curso de Procesos de Innovación en ingeniería, mediante este README resumimos quiénes somos, nuestros intereses, lo qué nos motiva y las ODS en la que queremos enfocar nuestro trabajo durante el curso.
