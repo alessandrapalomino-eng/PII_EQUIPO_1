@@ -12,7 +12,10 @@ Nuestro objetivo principal es lograr aplicar los conocimientos básicos y teóri
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
 ODS 7: ENERGÍA ASEQUIBLE Y NO CONTAMINANTE
+
 ODS 9: INDUSTRIA, INNOVACIÓN E INFRAESTRUCTURA
+
 ODS 13: ACCIÓN POR EL CLIMA
+
 ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 
