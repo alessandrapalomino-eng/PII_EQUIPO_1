@@ -5,6 +5,7 @@ Carrera de Ingeniería Industrial / Informática
 Universidad Peruana Cayetano Heredia
 
 🌍 Descripción del Equipo
+
 Somos el Equipo 1 del curso Procesos de Innovación en Ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Industrial e informática. 
 Nuestro objetivo principal es lograr aplicar los conocimientos básicos y teóricos dentro de nuestro equipo en la que nos ayude evaluar, analizar y concretizar nuestras ideas.
 
