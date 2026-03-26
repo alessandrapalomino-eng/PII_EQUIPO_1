@@ -1,4 +1,4 @@
-<img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/73ad8922-fb56-45fd-84b4-e4ae51021390" /><img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/65945e48-1b2a-4e10-b820-b6b91977dc06" />EQUIPO 1 - PROCESOS DE INNOVACIÓN PARA INGENIERIA 
+EQUIPO 1 - PROCESOS DE INNOVACIÓN PARA INGENIERIA 
 
 Carrera de Ingeniería Industrial / Informática 
 
