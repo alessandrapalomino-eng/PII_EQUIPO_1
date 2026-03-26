@@ -1,5 +1,7 @@
 EQUIPO 1 - PROCESOS DE INNOVACIÓN PARA INGENIERIA 
+
 Carrera de Ingeniería Industrial / Informática 
+
 Universidad Peruana Cayetano Heredia
 
 🌍 Descripción del Equipo
