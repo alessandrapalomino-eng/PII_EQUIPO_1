@@ -1,4 +1,4 @@
-EQUIPO 1 - PROCESOS DE INNOVACIÓN PARA INGENIERIA 
+<img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/73ad8922-fb56-45fd-84b4-e4ae51021390" /><img width="1305" height="735" alt="image" src="https://github.com/user-attachments/assets/65945e48-1b2a-4e10-b820-b6b91977dc06" />EQUIPO 1 - PROCESOS DE INNOVACIÓN PARA INGENIERIA 
 
 Carrera de Ingeniería Industrial / Informática 
 
@@ -26,8 +26,44 @@ ODS 15: VIDA DE ECOSISTEMAS TERRESTRES
 
 
 👥 Integrantes del Equipo
+-----------------------------------------------------------------------------------------------------------------
+|       Foto       |        Nombre        |           Rol            |                Intereses                 |
+-----------------------------------------------------------------------------------------------------------------
+|                  |                      |                          |                                          |
+|                  |    Hubert Hernando   |     Líder del Equipo     |    Innovación social, sostenibilidad     |
+|                  |    Ortiz Villegas    |                          |                                          |
+|                  |                      |                          |                                          |
+|                  |                      |                          |                                          |
+|                  |                      |                          |                                          |
+----------------------------------------------------------------------------------------------------------------*
+|                  |                      |                          |                                          |
+|                  |    Hubert Hernando   |    Responsable de la     |      Gestión ambiental y desarrollo      |
+|                  |    Ortiz Villegas    |      investigación       |              comunitario                 |
+|                  |                      |                          |                                          |
+|                  |                      |                          |                                          |
+|                  |                      |                          |                                          |
+-----------------------------------------------------------------------------------------------------------------
+|                  |                      |                          |                                          |
+|                  |     Nader Andre      |         Diseñador        |     Diseño de prototipos y creatividad   |
+|                  |   Espinoza Zegarra   |                          |                  aplicada                |
+|                  |                      |                          |                                          |
+|                  |                      |                          |                                          |
+|                  |                      |                          |                                          |
+-----------------------------------------------------------------------------------------------------------------
+|                  |                      |                          |                                          |
+|                  |   Alessandra Nicol   |       Encargada de       |    Comunicación científica y redacción   |
+|                  |    Palomino Lima     |       documentación      |                  técnica                 |
+|                  |                      |                          |                                          |
+|                  |                      |                          |                                          |
+|                  |                      |                          |                                          |
+-----------------------------------------------------------------------------------------------------------------
+|                  |                      |                          |                                          |
+|                  |    Hembert Enrique   |       Programador o      |     Programación, análisis de datos y    | 
+|                  |     Huamani Reyes    |         modelador        |                 simulación               |
+|                  |                      |                          |                                          |
+|                  |                      |                          |                                          |
+|                  |                      |                          |                                          |
+-----------------------------------------------------------------------------------------------------------------
 
-
-
-
-
+💬 Resumen Final
+Somos el equipo N°1 del curso de Procesos de Innovación en ingeniería, mediante este README resumimos quiénes somos, nuestros intereses, lo qué nos motiva y las ODS en la que queremos enfocar nuestro trabajo durante el curso.
