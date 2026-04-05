@@ -21,13 +21,13 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
   <img width="249" height="168" alt="image" src="https://github.com/user-attachments/assets/5478b806-cd52-44c7-864d-04dd51a72b44" />      
   <img width="249" height="168" alt="image" src="https://github.com/user-attachments/assets/c62ce6e0-aaa5-475d-b557-56eeb10e8410" />
 
-📸 Fotografía del Equipo
+📸 Fotografia del equipo
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="1170" height="608" alt="image" src="https://github.com/user-attachments/assets/82ce92a8-482b-4aac-873d-3f54ff9a0cf5" />
 
 
-👥 Integrantes del Equipo
+👥 Integrantes del equipo
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Foto | Nombre | Rol | Intereses |
